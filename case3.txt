@@ -1,0 +1,48 @@
+Doc: Okay. So, our next patient is here today for a follow up of chronic conditions. The patient was last seen by me on 07-28-2021. We checked his labs which showed that his A1c got worse. It went up from 6.6 to 7.2 so we advised him to modify his diet and physical activity. His lipid profile showed improvement in LDL but triglycerides went up so we advised to improve his diet. Let’s see him.
+Doc: Hello Hello! How are you doing?
+Pt: I’m doing good. How about you?
+Doc: I’m good too! How’s your diabetes now?
+Pt: Well, I don’t know. I am working to improve my diet. I have cut off soda pop from my diet.
+Doc: That’s good.
+Pt: I’m doing cardio exercises 3 times a week.
+Doc: Very good! How have your blood sugars been?
+Pt: They are ranging around 119-130 and 2 hours after my breakfast they go up to about 140-150.
+Doc: Okay. We will do some lab work today and will assess your diabetes. What medications are you taking at this time?
+Pt: You started me on metformin 750 mg once daily with breakfast and Synjardy XR 25-1000 mg once daily.
+Doc: Any side-effects?
+Pt: Umm.. not that I know of. 
+Doc: good! Any numbness or tingling in your feet?
+Pt: Nope.
+Doc: Okay. Continue with the good work. 
+Pt: Sure.
+Doc: During your last visit, your lipids were a bit off. 
+Pt: Okay.
+Doc: Your LDL was improved, but your triglycerides went up. We will recheck that today. Are you fasting?
+PT: Yes, I haven’t eaten anything since 8 pm yesterday. 
+Doc: Perfect! You are on atorvastatin 20 mg daily for your hyperlipidemia.
+Pt: Yes, and I also take 1 fish oil capsule daily.
+Doc: Great! Any muscle aches or pains?
+PT: No doctor. 
+Doc: Okay.  Your BP is a little elevated today. It is 130/90. Let me recheck it.
+Pt: Okay. 
+Doc: Okay, I got 145/88. Do you check it at home?
+Pt: Yes, but not regularly. 
+Doc: Okay, what would you say your average blood pressure is?
+Pt: My blood pressure at home ranges around 120/80.
+Doc: Okay. Are you taking your lisinopril consistently?
+Pt: Oh yes, I have never missed a dose. 
+Doc: Okay. We may need to increase your lisinopril dose.  Let’s do one thing - check your blood pressure regularly at home for a couple of weeks. If the numbers consistently run above 140/90, then we will increase your lisinopril dose after getting your kidney numbers today. 
+Pt: Okay. 
+Doc: Once you start on the increased dose of lisinopril, you need to come back in the next 2 weeks for a nurse visit for a blood pressure and kidney numbers check. I’ll order a CMP today and will call you with the results.
+Pt: Sounds good! Till then, can I continue lisinopril at 10 mg once daily. 
+Doc: Sure. Are you still taking your levothyroxine?
+Pt: Yes doctor. I take it in the morning. 50 mcg.
+Doc: Okay. We will recheck your TSH today and will make any adjustments in your thyroid medication.
+Pt: Okay
+Doc: Any excessive hair loss, increased tiredness, changes in sleep pattern, constipation, diarrhea, palpitations, excessive sweating or skin dryness.
+Pt: No doctor, none of that. 
+Doc: Okay. Everything seems okay now. Let’s do a quick physical exam.  Please sit on the exam table.  Take some deep breaths. Again. Now breathe normally.  Okay good! Open your mouth and say AAAAAA. Alright. Everything seems normal here. Please lie on your back, I am going to palpate your abdomen. Do you feel any pain there?
+Pt: No
+Doc: Alright. You are good to go. I’ll see you back in 6 months. My MA will call you with the results of lab work and all the recommendations.
+Pt: Okay doctor.
+Doc: Okay scribe, normal PE template for her please.

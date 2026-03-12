@@ -1,0 +1,35 @@
+Doc: Okay. So, our next patient is here today for an ear pain.
+Doc: Hello Hello! How are you doing?
+Pt: I’m doing good. How about you?
+Doc: I’m good too! So, what brings you here today?
+Pt: I am so fed up with my ears.
+Doc: What happened?
+Pt: I have this constant pain in my right ear.
+Doc: Is it just the pain?
+Pt: Yeah, mainly the pain, but I also feel something like I have constant pressure and water in my ear.
+Doc: Okay I see. When did this start?
+Pt: Urghh, this has been there for about 1-2 months.
+Doc: Okay. Have you tried anything for this?
+Pt: I tried to remove my ear wax with the help of a Qtip. Then I saw Dr. Joka last month and he gave me some allergic medications, which did not help at all.
+Doc: Okay, do you have any allergies?
+Pt: Yes, I have a history of seasonal allergies in the fall.
+Doc: Okay. Apart from the ear pain and pressure, do you have any other symptoms like runny nose, nasal congestion, postnasal drainage, sinus pressure, fever, or chills.
+Pt: No doctor. Nothing like that. But I have this swelling on the left side of my face. 
+Doc: Oh. Let me see. Does it hurt when I touch it?
+Pt: Yeah!!
+Doc: Okay. So, there is about 2 cm of indurated slightly swollen tender area noted on the left side of chin. 
+Pt: What?
+Doc: Nothing, that was for my scribe. 
+Pt: Oh okay. 
+Doc: Let me take a look in your ears. Okay. Ear canals are clear with slight backward retraction on the right tympanic membrane. Left tympanic membrane is normal. No sinus tenderness to palpation. Right sided nasal mucosa is erythematous with swollen turbinates. Nasal mucosa is normal on the left side.
+Okay, as per your physical examination and symptoms, you probably have eustachian tube dysfunction and middle ear infection. Let’s start you on antibiotics. I will prescribe Keflex 500 mg one capsule three times a day for 10 days. Also, I see your right sided nasal mucosa is a bit red and swollen and for that you will use Flonase nasal spray, 2 sprays in each nostril once daily for 2-4 weeks.
+Pt: Okay.
+Doc: If your ear pain still persists, we will have you see an ENT specialist for further evaluation and treatment.
+Pt: Okay doctor. 
+Doc: and your left sided-facial swelling is likely due to folliculitis.  Folliculitis is a common skin condition in which hair follicles become inflamed. It's usually caused by a bacterial or fungal infection.
+Pt: What are follicles?
+Doc: These are tiny pockets from which each hair grows. The antibiotic, Keflex, will also help you get rid of this. Also, you can do warm compresses. In case, it gets worse in 3-5 days, please return to the clinic for further evaluation as it can lead to an abscess.
+Pt: Okay doctor.
+Doc: Anything else for me?
+Pt: No! That’s all.
+Doc: Okay. Sounds good. You can follow up as needed.

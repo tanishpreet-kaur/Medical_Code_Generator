@@ -1,0 +1,63 @@
+Doc: Okay, the next patient today is here for a follow up of chronic medical problems including diabetes, hypertension, and dyslipidemia. He was last seen by me on 07/27/2021.
+Doc: Good morning.
+Pt: Good morning, Doctor. 
+Doc: So, how have you been?
+Pt: I’m good. How about you?
+DOc: I’m good too. So, you are here today for a follow up of diabetes, hypertension, and dyslipidemia. Right?
+Pt: Yes!
+Doc: So, regarding your hypertension, you are on lisinopril?
+Pt: Yes, I’m taking 20 mg every day.
+Doc: Okay. Any side effects with the medication?
+Pt: Nope. It works well for me. 
+Doc: Okay. Today, your blood pressure is slightly up. It is 142/84. Let me check it again. Um, almost the same. 141/82. Are you checking your blood pressure at home?
+Pt: No doctor.
+Doc: Okay. Do you have any chest pain, palpitations, or leg swelling?
+Pt: No doctor.
+Doc: Your blood pressure has been running a bit high, let’s start checking it at home and maintain a blood pressure log. You have to bring the log to me in a month. If your blood pressure still remains elevated, we may have to make some changes to your medication regimen. We will check your kidney numbers today.  
+Pt: Umm… okay.
+Doc: How about your cholesterol? Let me check your last cholesterol levels… Okay, so last time, Your LDL was 85 and we want that to be less than 100 so great job with that, HDL was 52 which is good, ideally we want it over 60; 40 or less is where it becomes a major risk for cardiovascular disease. And with triglycerides we want that below 150 and you were at 135 so excellent job with that. We will recheck your cholesterol levels today. Are you fasting?
+PT: Oh yes.
+Doc: Good! What dose of atorvastatin are you taking?
+Pt: I’m on 20 mg once daily, I guess.
+Doc: Yes, that’s right. Any side-effects with it. Muscle aches, abdominal pain, pain, nausea, vomiting, diarrhea, anything?
+PT: Nothing doctor.
+DOc: Okay.  We will check your numbers today and will call you with the results. In the meantime, you can continue with the current dose of atorvastatin.
+Pt: Okay doctor. 
+Doc: How have your blood sugars been?
+Pt: At home, my average fasting blood sugar ranges around 100-120 and when I check it 2 hours after my breakfast they are always below 180.
+Doc: Okay. Are you following the diabetic diet?
+Pt: Yes, I haven't made any changes in my diet.
+Doc: Okay. Your last A1c was bit up from your previous reading. Previously it was 5.6 and last time it was 6.1, but still it is under good control. We will check that today.
+Pt: Okay. I have never missed a dose of my medications.
+Doc: Okay. So, you are on metformin 750 mg twice daily and glimepiride 1 mg daily.
+Pt: yeah!
+Doc: Any side-effects with this?
+Pt: Nope!
+Doc: You also has a history of diabetic neuropathy, any numbness in your feet?
+Pt: Umm… no doctor. I don’t feel any numbness.
+Doc: Okay. You don’t require medication for your neuropathy at this time. We will also do a diabetic foot exam today. Please sit up here and remove your shoes and socks. 
+Pt: Okay. 
+Doc: Okay, do you feel this?
+Pt: Umm, no!
+Doc: and here?
+Pt: No doctor. 
+Doc: And on the right side? Anything there?
+Pt: Nothing doctor. I can not feel anything.
+Doc: Okay.  Let me check your heart and lungs. Take a few deep breaths. Again.. Okay your lungs sound normal. Now breathe normally for me please. Okay. Your heart is normal. Open your mouth and say AAAA. Okay. So, you were not able to feel anything on your feet. You need to be very careful about your feet. Keep watching your feet for any signs of cuts or wounds.
+Pt; Okay doctor. 
+Doc: We will recheck your HbA1c today, if it comes back above 7 then we may need to adjust your medications. Till then, continue with current medications. Keep checking your blood sugars at home. Eat a healthy diabetic diet and continue with regular exercises.
+Pt: Okay doctor.
+Doc: So, lab work including CBC, CMP, HbA1c, Vitamin B12, and urine microalbumin today. I will call you with the results. 
+Pt: Okay.
+Doc: And did you get the COVID booster shot?
+Pt: No, I’ll get that at my work on November 18th.
+Doc: Oh okay! I can see you back in 6 months if everything remains the same.
+Pt: Oh sure. 
+Doc: Alright, have a nice rest of your day.
+Pt: You too doctor.
+Doc: Okay scribe. PE for the last one: In diabetic foot exam: left foot, pulses normal, sensation to monofilament absent, visual exam was also normal. On the right foot, pulses present, sensation to monofilament absent, visual exam showed hard skin on inner side of head of 1st metatarsal.
+Assessment and plan for him, number 1, Type 2 diabetes mellitus with diabetic polyneuropathy, without long-term current use of insulin, Ordered CBC, CMP, HbA1c, and Vitamin B12. Ordered microalbumin urine random today and will contact the patient with the results. If his HbA1c is above 7, then we will consider adjusting her medications. Continue taking metformin 750 mg 2 tablets once daily with breakfast, glimepiride 1 mg every day. Continue checking her blood sugar at home. Continue eating a healthy diet. Performed diabetes foot exam.
+Number 2, Diabetic polyneuropathy associated with type 2 diabetes mellitus, The patient has no sensation of monofilament so I advised him to keep watching his feet for any cuts or wounds.
+Number 3 Dyslipidemia due to type 2 diabetes mellitus Ordered lipid panel today. We will contact the patient with the results and make adjustments in medications accordingly. For a meantime, continue taking atorvastatin 20 mg once daily. Continue watching his carb intake.
+Number 4, Primary hypertension, Considering his elevated blood pressure, I advised him to monitor his blood pressure at home and send us the log and I will increase lisinopril depending on his kidney numbers and home blood pressure readings. Until then, continue with lisinopril 20 mg every day.
+And follow up in 6 months.
